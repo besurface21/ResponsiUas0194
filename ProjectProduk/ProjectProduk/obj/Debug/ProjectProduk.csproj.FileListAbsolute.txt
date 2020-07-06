@@ -1,0 +1,7 @@
+C:\Users\Ronald Ricardo T\source\repos\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.csprojAssemblyReference.cache
+C:\Users\Ronald Ricardo T\source\repos\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Ricardo T\source\repos\ProjectProduk\ProjectProduk\bin\Debug\ProjectProduk.exe.config
+C:\Users\Ronald Ricardo T\source\repos\ProjectProduk\ProjectProduk\bin\Debug\ProjectProduk.exe
+C:\Users\Ronald Ricardo T\source\repos\ProjectProduk\ProjectProduk\bin\Debug\ProjectProduk.pdb
+C:\Users\Ronald Ricardo T\source\repos\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.exe
+C:\Users\Ronald Ricardo T\source\repos\ProjectProduk\ProjectProduk\obj\Debug\ProjectProduk.pdb
